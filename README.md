@@ -1,4 +1,4 @@
-# CNN-Based Image Authenticity Detection
+<img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/86c93e3d-6a76-4a4d-adda-1a928260299f" /># CNN-Based Image Authenticity Detection
 
 A Deep Learning-based Computer Vision project that classifies images as **Real** or **AI-Generated** using a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
@@ -149,15 +149,17 @@ Output Layer
 
 ### Model Training
 
-(Add screenshot here)
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/b168366c-a820-4888-bed4-c19ffd63582f" />
+
 
 ### Prediction Output
 
-(Add screenshot here)
+### For Ai image
+<img width="1919" height="849" alt="image" src="https://github.com/user-attachments/assets/4e1df13c-895f-4d87-8dff-0a2e8caa0920" />
 
-### Streamlit Interface
+### For Real image
+<img width="1919" height="849" alt="image" src="https://github.com/user-attachments/assets/3447f7f7-29e1-4f14-9cd7-52565e2e0d64" />
 
-(Add screenshot here)
 
 ---
 
@@ -166,13 +168,15 @@ Output Layer
 ```text
 cnn-image-authenticity-detection/
 │
-├── README.md
+├── app.py
 ├── ai_image_detector.keras
-├── Copy_of_AI_Generated_vs_Real_Images_Classifier.ipynb
+├── requirements.txt
+├── README.md
 │
-├── screenshots/
-│
-└── dataset/
+└── Screenshots/
+    ├── home.png
+    ├── real_prediction.png
+    └── ai_prediction.png
 ```
 
 ---
