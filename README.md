@@ -1,4 +1,4 @@
-<img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/86c93e3d-6a76-4a4d-adda-1a928260299f" /># CNN-Based Image Authenticity Detection
+# CNN-Based Image Authenticity Detection
 
 A Deep Learning-based Computer Vision project that classifies images as **Real** or **AI-Generated** using a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
@@ -158,7 +158,8 @@ Output Layer
 <img width="1919" height="849" alt="image" src="https://github.com/user-attachments/assets/4e1df13c-895f-4d87-8dff-0a2e8caa0920" />
 
 ### For Real image
-<img width="1919" height="849" alt="image" src="https://github.com/user-attachments/assets/3447f7f7-29e1-4f14-9cd7-52565e2e0d64" />
+<img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/9a1759d2-e105-4115-a360-f30ad51014e1" />
+
 
 
 ---
